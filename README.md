@@ -1,1 +1,1 @@
-# responsive-web-page
+This is a responsive web page
